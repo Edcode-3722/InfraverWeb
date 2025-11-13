@@ -1,6 +1,5 @@
 'use client';
 
-import { Link } from 'react-router-dom';
 import { useState, useEffect } from 'react';
 
 export default function HeroSection() {
